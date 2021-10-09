@@ -288,9 +288,9 @@ updated_on=nil>
 "set-cookie => personalization_id=\"v1_GfXLgWue46PteWdF2wB8wA==\"; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:01 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, guest_id=v1%3A163375284196230792; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:01 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None"
 "cache-control => no-cache, no-store, max-age=0"
 "content-length => 0"
-"x-connection-hash => 26a42c6d7be6ec47b30ad1e9e2fa46c2ff8100ac20f9707611a909b755a57640"
+"x-connection-hash => 9b755a57640"
 "connection => close"
-{"date"=>["Sat, 09 Oct 2021 04:14:01 UTC"], "server"=>["tsa_b"], "location"=>["https://twitter.com/"], "set-cookie"=>["personalization_id=\"v1_GfXLgWue46PteWdF2wB8wA==\"; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:01 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None", "guest_id=v1%3A163375284196230792; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:01 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None"], "cache-control"=>["no-cache, no-store, max-age=0"], "content-length"=>["0"], "x-connection-hash"=>["26a42c6d7be6ec47b30ad1e9e2fa46c2ff8100ac20f9707611a909b755a57640"], "connection"=>["close"]}
+{"date"=>["Sat, 09 Oct 2021 04:14:01 UTC"], "server"=>["tsa_b"], "location"=>["https://twitter.com/"], "set-cookie"=>["personalization_id=\"v1_GfXLgWue46PteWdF2wB8wA==\"; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:01 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None", "guest_id=v1%3A163375284196230792; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:01 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None"], "cache-control"=>["no-cache, no-store, max-age=0"], "content-length"=>["0"], "x-connection-hash"=>["57640"], "connection"=>["close"]}
 {"accept-encoding"=>["gzip;q=1.0,deflate;q=0.6,identity;q=0.3"],
  "accept"=>["*/*"],
  "user-agent"=>["Ruby"]}
@@ -303,7 +303,7 @@ updated_on=nil>
  "cache-control"=>["no-cache, no-store, max-age=0"],
  "content-length"=>["0"],
  "x-connection-hash"=>
-  ["95ae99b9d2a57e8fbe35a2e34cec476bfb81f3641817ef9eb2a15a3ed2a70f6a"],
+  ["f6a"],
  "connection"=>["close"]}
 -------------------------
 [*] Response ~> 301
