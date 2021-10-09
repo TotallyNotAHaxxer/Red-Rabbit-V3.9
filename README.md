@@ -3,7 +3,6 @@
 <h1> written by </h1>
 
 
-<img src="dns.png" alt="homies">
 
 What is Red-Rabbit
 
@@ -233,7 +232,8 @@ MODULE CHECK
   
   ================================================= DNS RECON ===============================
 
-![Alt text](/../<main>/dns.png?raw=true "DNS RECON")
+<img src="dns.png" alt="homies">
+
 
 
 `EX: twitter.com
