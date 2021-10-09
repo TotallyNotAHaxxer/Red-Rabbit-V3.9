@@ -208,7 +208,18 @@ WE HIGHLY DISCLAIM AGAINST USING THIS TOOL FOR MALICOUS
 ACTIVITY IF YOU HAVE A PROBLEM 
 
 
- 
+
+
+
+
+------------------------------------------------------- BUGS/ERRORS IN 3.9 CURRENT STABLE ----------------------------------------------------------------
+
+in the secondary menu in option 8 the rust scanner is not working properly if you want to use it to scan your local network please run the following command in your prompt <br>
+
+`cd src ; cargo run -- -j 1000 <HOME NETWORK IP> EX -> 10.0.0.0`
+
+
+
 =========================================================== EXAMPLES AND DEMOS OF SCRIPTS ===========================================
 
 
