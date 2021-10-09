@@ -235,7 +235,22 @@ http URL    >>> http://twitter.com
 [+] Created    : 2000-01-21 11:28:17 UTC
 [+] Registered : true
 
-#<struct Whois::Parser::Contact id=nil, type=3, name="Tech Admin", organization="Twitter, Inc.", address="1355 Market Street", city="San Francisco", zip="94103", state="CA", country=nil, country_code="US", phone="+1.4152229670", fax="+1.4152220922", email="domains-tech@twitter.com", url=nil, created_on=nil, updated_on=nil>
+#<struct Whois::Parser::Contact 
+id=nil, 
+type=3, 
+name="Tech Admin", 
+organization="Twitter, Inc.", 
+address="1355 Market Street", 
+city="San Francisco", 
+zip="94103", 
+state="CA", 
+country=nil, 
+country_code="US", 
+phone="+1.4152229670", 
+fax="+1.4152220922", 
+email="domains-tech@twitter.com", 
+url=nil, created_on=nil, 
+updated_on=nil>
 -------------------------------------------------------------------------
  
      ______     ______     _____     ______     ______     ______     ______     __     ______  
