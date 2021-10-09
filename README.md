@@ -209,19 +209,19 @@ ACTIVITY IF YOU HAVE A PROBLEM
 
 MODULE CHECK 
 
-`[~] Checking Mods Before Run
-[▇] Checking Module ... Done!
-[✅️] Module Found
-[▇] Checking Module ... Done!
-[✅️] Module Found
-[▇] Checking Module ... Done!
-[✅️] Module Found
-[▇] Checking Module ... Done!
-[✅️] Module Found
-[▇] Checking Module ... Done!
-[✅️] Module Found
-[▇] Checking Module ... Done!
-[✅️] Module Found
+`[~] Checking Mods Before Run`<br>
+`[▇] Checking Module ... Done!`<br>
+`[✅️] Module Found`<br>
+`[▇] Checking Module ... Done!`<br>
+`[✅️] Module Found`<br>
+`[▇] Checking Module ... Done!`<br>
+`[✅️] Module Found`<br>
+`[▇] Checking Module ... Done!`<br>
+`[✅️] Module Found`<br>
+`[▇] Checking Module ... Done!`<br>
+`[✅️] Module Found`<br>
+`[▇] Checking Module ... Done!`<br>
+`[✅️] Module Found`<br>
 `
   
   
