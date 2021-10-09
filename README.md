@@ -214,9 +214,18 @@ ACTIVITY IF YOU HAVE A PROBLEM
 
 ------------------------------------------------------- BUGS/ERRORS IN 3.9 CURRENT STABLE ----------------------------------------------------------------
 
-in the secondary menu in option 8 the rust scanner is not working properly if you want to use it to scan your local network please run the following command in your prompt <br>
-
+`in the secondary menu in option 8 the rust scanner is not working properly if you want to use it to scan your local network please run the following command in your prompt `<br>
 `cd src ; cargo run -- -j 1000 <HOME NETWORK IP> EX -> 10.0.0.0`
+
+`in the secondary menu where SQLI and XSSI are tested the way links are parsed by BS4 are a bit weird and im quite sorry, i can fix it however this is a seperate file and all ruby does is run that file`<br>
+
+`BLink animation affect in perl test-con.pl <br>
+
+sometimes the blinking URL's will cause an issue with display, this wont happen for everyone however it has happened once within the month of testing `<br>
+
+`Length Exception in rust main.rs <br>
+
+when the port scanner runs sometimes there will be length exceptions and socket IP binding issues where the length is neaither IPV4-IPV6 or is not supported, note this tool can not scan IP's outside of the private network`<br>
 
 
 
