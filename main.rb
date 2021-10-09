@@ -463,7 +463,7 @@ def extra() # comming soon
    end
    if input == 'B'
     puts '[+] Starting XSS Tester....'.colorize(:red)
-    system("sudo python3 xsss.py")
+    system("sudo python3 xss.py")
     sleep 2
     print("Return to Menu? Y/n >>> ")
     get1 = gets.chomp
