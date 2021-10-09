@@ -480,7 +480,8 @@ end
     print("PRIVATE HOSTNAME >>> ")
     hostnamerust = gets.chomp
     puts "Targeting Hostname -> #{hostnamerust}".colorize(:yellow)
-    system("cd rust ; cd port-scanner-rust ; cd src ; cargo run -- -j #{hostnamerust} ")
+    puts '[+] Running My Tool Install'
+    system("git clone git@github.com:ArkAngeL43/port-scanner-rust.git ; cd port-scanner-rust ; cd src ; cargo run -- -j #{hostnamerust} ")
     print "Press Enter when you want to continue >>> "
     ine = gets.chomp
     main()
