@@ -1,6 +1,6 @@
 # Red-Rabbit-V3.9
 
-<h1> what is Red-Rabbit? <\h1>
+what is Red-Rabbit? <\h1>
   
 <br>
 Red-Rabbit is a massive framework written from<br>
