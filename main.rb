@@ -976,8 +976,8 @@ def hostscan
 
 
 def deauth
-    packnum = "100000000000000"
     iface = 'mon0'
+    packnum = "100000000000000"
     print("Access Point ~~> ")
     bssid  = gets.chomp
     puts '-----------------------'
@@ -1013,7 +1013,6 @@ def rouge
         end
     end
 end
-
 
 def menu()
     os()
