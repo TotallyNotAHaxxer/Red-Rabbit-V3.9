@@ -228,6 +228,9 @@ MODULE CHECK
   
   ================================================= DNS RECON ===============================
 
+![Alt text](/../<main>dns.png?raw=true "DNS RECON")
+
+
 `EX: twitter.com
 Domain Name >>> twitter.com
 ---------
