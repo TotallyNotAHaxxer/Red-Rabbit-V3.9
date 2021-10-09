@@ -11,27 +11,26 @@ not only that but red-rabbit is a really fast penetration testing
 platform and multi tool for new and even experinced hackers 
 
 
-well you might ask what can it do?
+well you might ask what can it do?<br>
 
-it can
+it can<br>
 
-'port scan a host'
-'port scan your network'
-'port scan a web host'
-'spawn Fake Acess points'
-'Commit DHCMP attacks'
-'test your connection'
-'run whois tracers'
-'DOS a host'
-'test if a url is xss injectable'
-'test if a web host is SQL injectable'
-'Fuzz a file sharing server'
-'Capture all network BSSID's in range'
-'Change your interface mode'
-'and more '
-
-
-LANGUAGES USED 
+`port scan a host`<br>
+`port scan your network`<br>
+`port scan a web host`<br>
+`spawn Fake Acess points`<br>
+`Commit DHCMP attacks`<br>
+`test your connection`<br>
+`run whois tracers`<br>
+`DOS a host`<br>
+`test if a url is xss injectable`<br>
+`test if a web host is SQL injectable`<br>
+`Fuzz a file sharing server`<br>
+`Capture all network BSSID's in range`<br>
+`Change your interface mode`<br>
+`and more `<br>
+<br>
+LANGUAGES USED<br> 
 
 BATCH, PERL, GO, BASH, RUBY (MAIN), RUST, PYTHON3, PYTHON2
 
