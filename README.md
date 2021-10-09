@@ -2,6 +2,7 @@
 
 <h1> written by </h1>
 
+<img src="programmed.png" alt="homies">
 
 
 What is Red-Rabbit
