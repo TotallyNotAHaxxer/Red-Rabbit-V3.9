@@ -222,6 +222,98 @@ MODULE CHECK
 `[✅️] Module Found`<br>
 `[▇] Checking Module ... Done!`<br>
 `[✅️] Module Found`<br>
+
+  
+  ================================================= DNS RECON ===============================
+
+`EX: twitter.com
+Domain Name >>> twitter.com
+---------
+EX: http://twitter.com
+http URL    >>> http://twitter.com
+------------------------------------------------------------------------
+[+] Created    : 2000-01-21 11:28:17 UTC
+[+] Registered : true
+
+#<struct Whois::Parser::Contact id=nil, type=3, name="Tech Admin", organization="Twitter, Inc.", address="1355 Market Street", city="San Francisco", zip="94103", state="CA", country=nil, country_code="US", phone="+1.4152229670", fax="+1.4152220922", email="domains-tech@twitter.com", url=nil, created_on=nil, updated_on=nil>
+-------------------------------------------------------------------------
+ 
+     ______     ______     _____     ______     ______     ______     ______     __     ______  
+    /\  == \   /\  ___\   /\  __-.  /\  == \   /\  __ \   /\  == \   /\  == \   /\ \   /\__  _\ 
+    \ \  __<   \ \  __\   \ \ \/\ \ \ \  __<   \ \  __ \  \ \  __<   \ \  __<   \ \ \  \/_/\ \/ 
+     \ \_\ \_\  \ \_____\  \ \____-  \ \_\ \_\  \ \_\ \_\  \ \_____\  \ \_____\  \ \_\    \ \_\ 
+      \/_/ /_/   \/_____/   \/____/   \/_/ /_/   \/_/\/_/   \/_____/   \/_____/   \/_/     \/_/ 
+         V 3.0                                 Red Rabbit               Scare_Sec Hackers
+                                                
+                                                ((`\
+                                             ___ \\ '--._
+                                          .'`   `'    o  )
+                                          /    \   '. __.'
+                                        _|    /_  \ \_\_
+                                       {_\______\-'\__\_\
+                                        -----------------
+
+         Date At Start ===> 2021-10-08 20:14:05.674549226 -0400
+         Url Target    ===> http://twitter.com
+         WWW Target    ===> twitter.com
+-------------------------------------------------------
+[*] Target is => http://twitter.com
+-------------------------------------------------------
+[*] Gathering Info on URL => http://twitter.com
+[+] good
+---------------- BASIC INFORMATION FOR URL -------------- 
+"date => Sat, 09 Oct 2021 04:14:01 UTC"
+"server => tsa_b"
+"location => https://twitter.com/"
+"set-cookie => personalization_id=\"v1_GfXLgWue46PteWdF2wB8wA==\"; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:01 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, guest_id=v1%3A163375284196230792; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:01 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None"
+"cache-control => no-cache, no-store, max-age=0"
+"content-length => 0"
+"x-connection-hash => 26a42c6d7be6ec47b30ad1e9e2fa46c2ff8100ac20f9707611a909b755a57640"
+"connection => close"
+{"date"=>["Sat, 09 Oct 2021 04:14:01 UTC"], "server"=>["tsa_b"], "location"=>["https://twitter.com/"], "set-cookie"=>["personalization_id=\"v1_GfXLgWue46PteWdF2wB8wA==\"; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:01 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None", "guest_id=v1%3A163375284196230792; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:01 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None"], "cache-control"=>["no-cache, no-store, max-age=0"], "content-length"=>["0"], "x-connection-hash"=>["26a42c6d7be6ec47b30ad1e9e2fa46c2ff8100ac20f9707611a909b755a57640"], "connection"=>["close"]}
+{"accept-encoding"=>["gzip;q=1.0,deflate;q=0.6,identity;q=0.3"],
+ "accept"=>["*/*"],
+ "user-agent"=>["Ruby"]}
+{"date"=>["Sat, 09 Oct 2021 04:14:02 UTC"],
+ "server"=>["tsa_b"],
+ "location"=>["https://twitter.com/"],
+ "set-cookie"=>
+  ["personalization_id=\"v1_9qUMSOtlAzYH42jrPgEwCg==\"; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:02 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None",
+   "guest_id=v1%3A163375284208859520; Max-Age=63072000; Expires=Mon, 09 Oct 2023 04:14:02 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None"],
+ "cache-control"=>["no-cache, no-store, max-age=0"],
+ "content-length"=>["0"],
+ "x-connection-hash"=>
+  ["95ae99b9d2a57e8fbe35a2e34cec476bfb81f3641817ef9eb2a15a3ed2a70f6a"],
+ "connection"=>["close"]}
+-------------------------
+[*] Response ~> 301
+[*] Checking More Connections..
+--------------------------
+[*] Gathering Header Info....
+[!] Warning, upon further testing of dom-t.rb
+[!] Sometimes the server info will go empty
+[!] Right now i am planning on fixing this bug 
+[!] and massive issue, however this project
+[!] was programmed over the course of a month
+
+[*] Query          => 
+
+[*] Scheme         => 
+http
+[*] Port  Main     => 
+80
+[*] HOSTNAME       => 
+twitter.com
+[*] Path           => 
+
+[*] Request URI    => 
+/
+[*] Server         => tsa_c
+[*] Date           => Sat, 09 Oct 2021 04:14:02 GMT
+[*] Content        => text/html; charset=utf-8
+[*] Response Code  => 301
+[*] Last-mod       => 
+Sat, 09 Oct 2021 04:14:02 GMT
+[*] trans-enc      => 
+chunked
 `
-  
-  
