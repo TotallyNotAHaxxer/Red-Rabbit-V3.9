@@ -204,6 +204,24 @@ ACTIVITY IF YOU HAVE A PROBLEM
 
 
  
- 
+=========================================================== EXAMPLES AND DEMOS OF SCRIPTS ===========================================
+
+
+MODULE CHECK 
+
+`[~] Checking Mods Before Run
+[▇] Checking Module ... Done!
+[✅️] Module Found
+[▇] Checking Module ... Done!
+[✅️] Module Found
+[▇] Checking Module ... Done!
+[✅️] Module Found
+[▇] Checking Module ... Done!
+[✅️] Module Found
+[▇] Checking Module ... Done!
+[✅️] Module Found
+[▇] Checking Module ... Done!
+[✅️] Module Found
+`
   
   
