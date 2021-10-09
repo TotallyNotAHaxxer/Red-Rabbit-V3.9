@@ -14,7 +14,7 @@ def send_post(host, port, buffer)
     
     s = TCPSocket.open(host, port)
     s.send(request, 0)
-    # s.recv(1024)  # Try to comment this line and run the fuzzer again
+    # s.recv(1024)  
     s.close
   rescue Errno::ECONNREFUSED
     puts "[!] The targeted Service is not running or crashed."
