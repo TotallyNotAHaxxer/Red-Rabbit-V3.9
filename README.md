@@ -207,6 +207,8 @@ ACTIVITY IF YOU HAVE A PROBLEM
 =========================================================== EXAMPLES AND DEMOS OF SCRIPTS ===========================================
 
 
+NEXT EXAMPLE DATA IS NOT FORMATED LIKE THAT IN THE SCRIPT IT IS ALL FORMATTED IN A LINE ASIDES SERVER SESSIONS
+
 MODULE CHECK 
 
 `[~] Checking Mods Before Run`<br>
