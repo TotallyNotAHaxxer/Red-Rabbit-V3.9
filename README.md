@@ -1,5 +1,7 @@
 # Red-Rabbit-V3.9
-
+` WARNING BEFORE RUNNING THE TOOL PLEASE USE THE FOLLOWING COMMAND 
+iw phy phy1 interface add mon0 type monitor && ifconfig mon0 up > THIS NEEDS TO BE IN A ROOT TERMINAL
+`
 <h1> written by </h1>
 
 <img src="programmed.png" alt="homies">
@@ -226,8 +228,20 @@ ACTIVITY IF YOU HAVE A PROBLEM
 `Length Exception in rust main.rs<br>
 
 when the port scanner runs sometimes there will be length exceptions and socket IP binding issues where the length is neaither IPV4-IPV6 or is not supported, note this tool can not scan IP's outside of the private network`<br>
-
-
+<br>
+<br>
+`Errcon Refused in URL testiong`<br>
+`sometimes perl will throw exceptions like a con was refused however the script will still run`<br>
+<br>
+                                                                                                 
+`BAD CONNECTION test.pl`
+`sometimes givin the url, if the indexed HTTP error code is not within the error code list it will throw a warning with testing in connections`<br>
+<br>
+<br>
+`Bug in GO file`
+`sometimes when you are during URl/Domain Recon adn at the bottom the go file runs, somtimes it wont properly load, and it wont even print the domain fetched from the URL, i have assumed this depends on the URl and the Domain server your inspecting some sites like google or twitter wont work but smaller connections will`
+<br>
+<br>
 
 =========================================================== EXAMPLES AND DEMOS OF SCRIPTS ===========================================
 
