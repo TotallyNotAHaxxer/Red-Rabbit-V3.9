@@ -228,7 +228,7 @@ MODULE CHECK
   
   ================================================= DNS RECON ===============================
 
-![Alt text](/../<main>dns.png raw=true "DNS RECON")
+![Alt text](/../<main>/dns.png?raw=true "DNS RECON")
 
 
 `EX: twitter.com
